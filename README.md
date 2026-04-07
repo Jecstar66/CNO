@@ -1,7 +1,6 @@
 # Diverse Text-to-Image Generation via Contrastive Noise Optimization (ICLR 2026)
 
 [![Paper](https://img.shields.io/badge/arXiv-2510.03813-b31b1b.svg)](https://arxiv.org/abs/2510.03813)
-[![Project Page](https://img.shields.io/badge/Project-Page-blue)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Official PyTorch implementation of **"DIVERSE TEXT-TO-IMAGE GENERATION VIA CONTRASTIVE NOISE OPTIMIZATION"**. 
