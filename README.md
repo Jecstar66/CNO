@@ -4,7 +4,11 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Official PyTorch implementation of 
-**"DIVERSE TEXT-TO-IMAGE GENERATION VIA CONTRASTIVE NOISE OPTIMIZATION"** by Byungjun Kim, Soobin Um, and Jong Chul Ye.  
+
+**"DIVERSE TEXT-TO-IMAGE GENERATION VIA CONTRASTIVE NOISE OPTIMIZATION"** 
+
+by Byungjun Kim, Soobin Um, and Jong Chul Ye.  
+
 Published as a conference paper at **ICLR 2026 !!**
 
 ---
@@ -36,15 +40,12 @@ In this work, we introduce **Contrastive Noise Optimization (CNO)**, a simple ye
 ### Prerequisites
 ```bash
 # Clone the repository
-git clone [https://github.com/Jecstar66/CNO.git](https://github.com/Jecstar66/CNO.git)
+git clone https://github.com/Jecstar66/CNO.git
 cd CNO
 
 # Create a conda environment
 conda env create -f environments.yml
 conda activate cno
-
-# Install dependencies
-pip install -r requirements.txt
 ```
 
 ### Quick Start
