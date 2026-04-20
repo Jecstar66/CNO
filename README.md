@@ -23,7 +23,7 @@ In this work, we introduce **Contrastive Noise Optimization (CNO)**, a simple ye
 ### Prerequisites
 ```bash
 # Clone the repository
-git clone [https://github.com/USERNAME/CNO.git](https://github.com/USERNAME/CNO.git)
+git clone https://github.com/Jecstar66/CNO.git
 cd CNO
 
 # Create a conda environment
