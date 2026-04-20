@@ -24,7 +24,7 @@ In this work, we introduce **Contrastive Noise Optimization (CNO)**, a simple ye
 
 ## 🛠️ Method
 <p align="center">
-  <img src="figures/concept.jpg" alt="Concept Image" width="85%">
+  <img src="figures/concept.png" alt="Concept Image" width="85%">
   <br>
   <em><b>Figure 2: Overview of CNO.</b> We optimize the initial noise latent space using a contrastive loss in the Tweedie-denoised space to ensure both diversity and text-alignment.</em>
 </p>
