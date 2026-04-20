@@ -44,7 +44,7 @@ git clone https://github.com/Jecstar66/CNO.git
 cd CNO
 
 # Create a conda environment
-conda env create -f environments.yml
+conda env create -f environments.yaml
 conda activate cno
 ```
 
