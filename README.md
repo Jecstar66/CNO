@@ -10,7 +10,7 @@ Published as a conference paper at **ICLR 2026**.
 ---
 
 <p align="center">
-  <img src="figures/fig1.jpg" alt="Teaser Image" width="100%">
+  <img src="figures/showcase.jpg" alt="Teaser Image" width="100%">
   <br>
   <em><b>Figure 1:</b> Comparison of diversity. Standard DDIM exhibits pronounced mode collapse (repetitive images), while our <b>CNO</b> delivers markedly greater diversity and fidelity, generating a wide range of images that remain strongly aligned with the input text.</em>
 </p>
@@ -31,27 +31,6 @@ In this work, we introduce **Contrastive Noise Optimization (CNO)**, a simple ye
 
 ---
 
-## 🖼️ Visual Comparisons
-Our method achieves a superior quality-diversity Pareto frontier across various prompts and backbones.
-
-### Diverse Subjects and Compositions
-<p align="center">
-  <img src="figures/fig4.jpg" width="49%">
-  <img src="figures/fig2.jpg" width="49%">
-</p>
-<p align="center">
-  <img src="figures/fig3.jpg" width="49%">
-  <img src="figures/fig6.jpg" width="49%">
-</p>
-
-### Quantitative Excellence
-<p align="center">
-  <img src="figures/fig5.jpg" width="70%">
-  <br>
-  <em><b>Figure 3:</b> Pareto frontier showing the trade-off between CLIP Score (Fidelity) and LPIPS (Diversity). CNO consistently outperforms baseline methods.</em>
-</p>
-
----
 
 ## 🚀 Getting Started
 
