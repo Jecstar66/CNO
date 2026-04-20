@@ -5,7 +5,7 @@
 
 Official PyTorch implementation of **"DIVERSE TEXT-TO-IMAGE GENERATION VIA CONTRASTIVE NOISE OPTIMIZATION"**.  
 By Byungjun Kim, Soobin Um, and Jong Chul Ye.  
-Published as a conference paper at **The Fourteenth International Conference on Learning Representations (ICLR 2026)** in Rio de Janeiro, Brazil.
+Published as a conference paper at **ICLR 2026**
 
 ---
 
@@ -60,7 +60,7 @@ If you find our work or this code useful in your research, please consider citin
 ```bibtex
 @inproceedings{kim2026diverse,
   title={Diverse Text-to-Image Generation via Contrastive Noise Optimization},
-  author={Kim, Byungjun and Um, Soobin and Ye, Jong Chul},
+  author={Byungjun Kim, Soobin Um and Jong Chul Ye},
   booktitle={The Fourteenth International Conference on Learning Representations},
   year={2026},
   url={[https://openreview.net/forum?id=XXXXXX](https://openreview.net/forum?id=XXXXXX)}
