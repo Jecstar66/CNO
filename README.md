@@ -5,7 +5,7 @@
 
 Official PyTorch implementation of **"DIVERSE TEXT-TO-IMAGE GENERATION VIA CONTRASTIVE NOISE OPTIMIZATION"**.  
 By Byungjun Kim, Soobin Um, and Jong Chul Ye.  
-Published as a conference paper at **ICLR 2026**.
+Published as a conference paper at **The Fourteenth International Conference on Learning Representations (ICLR 2026)** in Rio de Janeiro, Brazil.
 
 ---
 
@@ -45,3 +45,24 @@ conda activate cno
 
 # Install dependencies
 pip install -r requirements.txt
+```
+
+### Quick Start
+To easily generate diverse images using CNO with Stable Diffusion 1.5, simply run the provided shell script:
+```bash
+source scripts/sd15_diverse_cno.sh
+```
+
+---
+
+## 📜 Citation
+If you find our work or this code useful in your research, please consider citing our paper:
+```bibtex
+@inproceedings{kim2026diverse,
+  title={Diverse Text-to-Image Generation via Contrastive Noise Optimization},
+  author={Kim, Byungjun and Um, Soobin and Ye, Jong Chul},
+  booktitle={The Fourteenth International Conference on Learning Representations},
+  year={2026},
+  url={[https://openreview.net/forum?id=XXXXXX](https://openreview.net/forum?id=XXXXXX)}
+}
+```
