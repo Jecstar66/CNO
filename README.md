@@ -31,7 +31,6 @@ In this work, we introduce **Contrastive Noise Optimization (CNO)**, a simple ye
 
 ---
 
-
 ## 🚀 Getting Started
 
 ### Prerequisites
