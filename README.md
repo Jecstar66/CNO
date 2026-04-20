@@ -3,9 +3,9 @@
 [![Paper](https://img.shields.io/badge/arXiv-2510.03813-b31b1b.svg)](https://arxiv.org/abs/2510.03813)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
-Official PyTorch implementation of **"DIVERSE TEXT-TO-IMAGE GENERATION VIA CONTRASTIVE NOISE OPTIMIZATION"**.  
-By Byungjun Kim, Soobin Um, and Jong Chul Ye.  
-Published as a conference paper at **ICLR 2026**
+Official PyTorch implementation of 
+**"DIVERSE TEXT-TO-IMAGE GENERATION VIA CONTRASTIVE NOISE OPTIMIZATION"** by Byungjun Kim, Soobin Um, and Jong Chul Ye.  
+Published as a conference paper at **ICLR 2026 !!**
 
 ---
 
